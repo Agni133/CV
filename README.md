@@ -1,2 +1,2 @@
 # CV
-This is the basic layout  of the Cv using html only 
+This is the basic  dummy project  of the Cv using html only 
